@@ -1,0 +1,1 @@
+get-GPOReport -all -reporttype XML -path C:\temp\gpo-report.xml

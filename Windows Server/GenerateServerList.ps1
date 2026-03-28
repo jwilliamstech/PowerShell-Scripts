@@ -1,0 +1,1 @@
+Get-ADComputer -Filter { OperatingSystem -Like '*Windows Server*' } -Properties OperatingSystem | select -ExpandProperty Name | Out-File "C:\temp\ServerList.txt"
