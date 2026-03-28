@@ -1,4 +1,4 @@
-﻿#Archive M365 User script, authored by Joshua Williams
+﻿#Archive M365 User script, authored by Joshua Williams.
 
 #Create variables to pass for O365 credentials
 $AdminName = "username@domain.com"
